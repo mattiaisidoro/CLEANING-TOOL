@@ -29,11 +29,10 @@ pip install python-docx
 
 
 📁 Struttura del progetto
-bash
-Copia
-Modifica
+inserisci tutto nella stessa cartella
+
 .
 ├── main.py                   # Script principale
 ├── ESEMPIO.docx              # Documento di input (da pulire)
 ├── ESEMPIO_FILTRATO.docx     # Documento intermedio dopo pulizia
-└── res_finale.docx           # Risultato finale (parlanti unificati)
+└── RES_FINALE.docx           # Risultato finale (parlanti unificati) questo e quello da usare
