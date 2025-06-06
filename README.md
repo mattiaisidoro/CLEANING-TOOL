@@ -26,3 +26,14 @@ Riconosce automaticamente i parlanti, unisce le frasi consecutive, elimina inter
 
 ```bash
 pip install python-docx
+
+
+📁 Struttura del progetto
+bash
+Copia
+Modifica
+.
+├── main.py                   # Script principale
+├── ESEMPIO.docx              # Documento di input (da pulire)
+├── ESEMPIO_FILTRATO.docx     # Documento intermedio dopo pulizia
+└── res_finale.docx           # Risultato finale (parlanti unificati)
